@@ -5,6 +5,12 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet)](https://www.iotmlfolio.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:ryoh.kuramoto@rknewtech.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryokuramoto/ryokuramoto/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryokuramoto/ryokuramoto/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ryokuramoto/ryokuramoto/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## About Me
 
 I am an innovative Data Scientist with over five years of experience in designing and deploying production-grade AI systems in engineering and manufacturing environments. My expertise spans advanced machine learning techniques, including computer vision, NLP, LLMs, and Generative AI, with hands-on experience in frameworks like TensorFlow and PyTorch. I am proficient in leveraging cloud platforms such as AWS, Azure, and GCP to deliver scalable, distributed AI solutions.
