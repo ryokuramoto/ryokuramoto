@@ -57,11 +57,6 @@ Currently, I am expanding my expertise in IoT and machine intelligence through p
 **Description:** This project aims to develop a cost-effective and efficient home delivery system using basic components, including the ESP32 microcontroller, ultrasonic sensor, and servo motor. The system integrates key technologies such as Blynk for mobile app interaction, real-time notifications, and GPS location tracking.  
 **Technologies:** ESP32, Blynk, GPS, Ultrasonic Sensor, Servo Motor
 
-## 📊 GitHub Stats
-
-![Ryoh Kuramoto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryokuramoto&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryokuramoto&layout=compact&theme=radical)
-
 ## 📝 Certifications
 
 - **2nd Grade Certification in Computational Mechanics Engineers, Solid Mechanics Fields** - The Japan Society of Mechanical Engineers, February 2023
