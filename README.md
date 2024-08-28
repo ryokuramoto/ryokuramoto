@@ -16,52 +16,8 @@ Currently, I am expanding my expertise in IoT and machine intelligence through p
 - 💬 Ask me about advanced ML techniques, cloud computing, and AI-driven solutions.
 - ⚡ Fun fact: I have a strong background in civil engineering and computer simulations, which uniquely positions me to bridge the gap between traditional engineering and AI.
 
-## 🔧 Technologies & Tools
-
-### AI & Machine Learning:
-- **Core Competencies:** Data Analytics, Generative AI, LLMs, RAG, NLP, Deep Learning, Computer Vision
-- **Tools & Frameworks:** TensorFlow, PyTorch, LangChain, Pinecone, Chroma, Apache Spark, Apache Airflow
-
-### Programming Languages:
-- Python, C/C++, C#, Java, JavaScript, Fortran, VBA, Assembly Language
-
-### Cloud Platforms:
-- Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
-
-### Software Development:
-- **Methodologies:** DevOps, Agile
-- **Tools & Platforms:** Git, Docker, Kubernetes, Jenkins, Linux, Microsoft Power Platform, SAP ERP, Snowflake, SQL, MySQL, Qt
-
-### Internet of Things (IoT):
-- **Systems & Devices:** Embedded Systems, Robotics, Sensors, Actuators, PLC, Wireless Communications, Microcontrollers (ARM, PIC, ESP32, Arduino)
-- **Technologies:** Fanuc Robots, COGNEX In-Sight, Blynk
-
-### Cybersecurity:
-- Windows Server, VMware, VirtualBox, Nmap, Wireshark, Nessus, OWASP ZAP
-
-### Engineering & Simulation:
-- **Core Disciplines:** Electronics, Computational Fluid Dynamics (CFD), Finite Element Analysis (FEA)
-- **Technologies & Tools:** Parallel Computing (CUDA, OpenMP), Simulink, MATLAB, NI Multisim, CAD (SOLIDWORKS, AutoCAD, CATIA), OpenGL
-
-## 🛠️ Projects & Open Source Contributions
-
-### [UltrasonicRadar-ESP32](https://github.com/ryokuramoto/UltrasonicRadar-ESP32)
-**Description:** This repository contains the Arduino code for an ultrasonic radar system using the ESP32 microcontroller, servo motor, and buzzer.  
-**Technologies:** Arduino, ESP32, Ultrasonic Sensor, Servo Motor, Buzzer
-
-### [DiabetesML](https://github.com/ryokuramoto/DiabetesML)
-**Description:** This project explores Decision Tree, K Nearest Neighbors (KNN), and Support Vector Machine (SVM) techniques using a diabetes diagnosis dataset. The goal is to apply these machine learning methods to a real dataset, evaluate their performance, and effectively visualize the results.  
-**Technologies:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn
-
-### [SmartHomeDelivery](https://github.com/ryokuramoto/SmartHomeDelivery)
-**Description:** This project aims to develop a cost-effective and efficient home delivery system using basic components, including the ESP32 microcontroller, ultrasonic sensor, and servo motor. The system integrates key technologies such as Blynk for mobile app interaction, real-time notifications, and GPS location tracking.  
-**Technologies:** ESP32, Blynk, GPS, Ultrasonic Sensor, Servo Motor
-
-## 📝 Certifications
-
-- **2nd Grade Certification in Computational Mechanics Engineers, Solid Mechanics Fields** - The Japan Society of Mechanical Engineers, February 2023
-- **Fundamental Information Technology Engineer** - Information-technology Promotion Agency, Japan (IPA), May 2016
-- **2nd Grade Certification in Computational Mechanics Engineers, Thermal Fluid Mechanics Fields** - The Japan Society of Mechanical Engineers, February 2016
+## 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-525252?logo=assembly&logoColor=white)
 
 ## 🤝 Let's Connect
 
