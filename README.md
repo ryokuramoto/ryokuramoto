@@ -1,6 +1,5 @@
 # Hello, I'm Ryoh Kuramoto 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=ryohkuramoto&color=blueviolet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ryoh-kuramoto-a94557291/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet)](https://www.iotmlfolio.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:ryoh.kuramoto@rknewtech.com)
