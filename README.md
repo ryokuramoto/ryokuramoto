@@ -25,7 +25,7 @@ I am an experienced Data Scientist with a robust background in AI-driven enginee
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing new projects, innovative ideas, or opportunities to contribute to your vision. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryoh-kuramoto-a94557291/) or visit my [Portfolio](https://www.iotmlfolio.com/) for more information about my work.
+I'm always excited to explore new projects, exchange innovative ideas, or collaborate on opportunities where I can contribute to your vision. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryoh-kuramoto-a94557291/).
 
 ---
 
